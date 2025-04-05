@@ -1,4 +1,4 @@
-⚠️ DANGER: This project is developed under OUTHAD AI. 
+⚠️ IMP: This project is developed under OUTHAD AI. 
 # HALO-CI: A High-performance Compiler Accelerator for LLM and Linear Algebra Operations
 
 **Author**: Mohammad Tanzil Idrisi  
